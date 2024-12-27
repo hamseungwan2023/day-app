@@ -1,3 +1,4 @@
+# 간단한 시계와 몇 일 지났는지 보여주는 앱입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
